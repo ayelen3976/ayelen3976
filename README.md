@@ -1,10 +1,10 @@
-# Welcome to my github! 👋
+# Bienvenido a mi github! 👋
 
 <div align="center">
 	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif">
 </div>
 
-## About me :mortar_board:
+## Sobreme mi :mortar_board:
  Tengo 18 años y soy una estudiante, actualmente estoy haciendo un BootCamp ,empece con la programación a los 16 años. Esto me ayudo a desarrollar una buena mentalidad tecnológica y me dio la curiosidad por aprender más. Yo creo que **ningun conocimiento es suficiente**.
 - **Frontend Development**
 	- HTML, CSS and Javascript 
