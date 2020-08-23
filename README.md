@@ -6,7 +6,7 @@
 
 ## Sobre mi :mortar_board:
  Tengo 18 años y soy una estudiante, actualmente estoy haciendo un BootCamp online con soyHenry, empece con la programación a los 16 años. Esto me ayudo a desarrollar una buena mentalidad tecnológica y me dio la curiosidad por aprender más. Yo creo que **ningun conocimiento es suficiente**.
- ## Lo que se:computer:
+ ## Lo que se :computer:
 - **Frontend Development**
 
 	- HTML, CSS and Javascript 
