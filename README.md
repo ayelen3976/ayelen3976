@@ -1,7 +1,7 @@
 # Bienvenido a mi github! 👋
 
 <div align="center">
-	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif" width='100%'>
+	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif" width='90%'>
 </div>
 
 ## Sobre mi :mortar_board:
