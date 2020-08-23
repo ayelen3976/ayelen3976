@@ -21,5 +21,5 @@
 [![Linkedin](https://img.shields.io/badge/-Ayelen%20Fernandez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](https://www.linkedin.com/in/ayelen-fernandez-783286187/)
 [![Mail](https://img.shields.io/badge/-ayelenwf@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](mailto:ayelenwf@gmail.com)
 
-Thanks for stopping by! 😁
+Gracias por pasar! 😁
 
