@@ -1,7 +1,7 @@
 # Bienvenido a mi github! 👋
 
 <div align="center">
-	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif">
+	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif" width='100%'>
 </div>
 
 ## Sobre mi :mortar_board:
@@ -12,8 +12,8 @@
 	- React with Redux 
 	- React Native
 
-## Todavia sigo aprendiendo…:
-- Backend Development (to become a Full-Stack developer)
+## Todavia sigo aprendiendo…
+- Backend Development (para ser Full-Stack developer)
 
 ## Contactame
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
