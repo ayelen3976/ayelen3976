@@ -1,12 +1,12 @@
-# Bienvenido a mi github! 👋
+# Welcome to my github! 👋
 
 <div align="center">
 	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif" width='90%'>
 </div>
 
-## Sobre mi :mortar_board:
- Tengo 18 años y soy una estudiante, actualmente estoy haciendo un BootCamp online con soyHenry, empece con la programación a los 16 años. Esto me ayudo a desarrollar una buena mentalidad tecnológica y me dio la curiosidad por aprender más. Yo creo que **ningun conocimiento es suficiente**.
- ## Lo que se :computer:
+## About me :mortar_board:
+I am 18 years old and I am a student, I am currently doing an online BootCamp with soyHenry is latam, I started programming at 16 years old. This helped me develop a good technology mindset and made me curious to learn more. I think **no knowledge is enough**.
+ ## What I know :computer:
 - **Frontend Development**
 
 	- HTML, CSS and Javascript 
@@ -17,14 +17,14 @@
 	- Nodejs
 	- Express
 
-## Todavia sigo aprendiendo…
-- Backend Development (para ser Full-Stack developer)
+## I'm still learning…
+-Backend Development (to be Full-Stack developer)
 
-## Contactame
+## Contact
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
 [![Instagram](https://img.shields.io/badge/-@yefernandez0211-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ayefernandez0211/)](https://www.instagram.com/ayefernandez0211/)
 [![Linkedin](https://img.shields.io/badge/-Ayelen%20Fernandez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](https://www.linkedin.com/in/ayelen-fernandez-783286187/)
 [![Mail](https://img.shields.io/badge/-ayelenwf@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](mailto:ayelenwf@gmail.com)
 
-Gracias por pasar! 😁
+Thanks for pass! 😁
 
