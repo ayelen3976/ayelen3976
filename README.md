@@ -24,7 +24,7 @@ I am 18 years old and I am a student, I am currently doing an online BootCamp wi
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
 [![Instagram](https://img.shields.io/badge/-@yefernandez0211-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ayefernandez0211/)](https://www.instagram.com/ayefernandez0211/)
 [![Linkedin](https://img.shields.io/badge/-Ayelen%20Fernandez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](https://www.linkedin.com/in/ayelen-fernandez-783286187/)
-[![Mail](https://img.shields.io/badge/-ayelenwf@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](mailto:ayelenwf@gmail.com)
+[![Mail](https://img.shields.io/badge/-ayee_01@live.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](mailto:ayee_01@live.com)
 
 Thanks for pass! 😁
 
