@@ -16,6 +16,7 @@ I am 18 years old and I am a student, I am currently doing an online BootCamp wi
 	- ReactJS
 	- Nodejs
 	- Express
+	- SQL
 
 ## I'm still learning…
 -Backend Development (to be Full-Stack developer)
