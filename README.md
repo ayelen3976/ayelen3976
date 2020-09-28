@@ -7,7 +7,7 @@
 ## About me :mortar_board:
 I am 18 years old and I am a student, I am currently doing an online BootCamp with soyHenry is latam, I started programming at 16 years old. This helped me develop a good technology mindset and made me curious to learn more. I think **no knowledge is enough**.
  ## What I know :computer:
-- **Frontend Development**
+- **Full Stack Development**
 
 	- HTML, CSS and Javascript 
 	- Bootstrap
@@ -18,8 +18,8 @@ I am 18 years old and I am a student, I am currently doing an online BootCamp wi
 	- Express
 	- SQL
 
-## I'm still learning…
--Backend Development (to be Full-Stack developer)
+## I will learn later...
+-Python
 
 ## Contact
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
