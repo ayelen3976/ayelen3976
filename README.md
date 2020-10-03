@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I am 18 years old and I am a student, I am currently doing an online BootCamp with soyHenry is latam, I started programming at 16 years old. This helped me develop a good tech mindset and made me curious to learn more. I like to face challenges every day and learn from people, acquiring knowledge and experience. I think that ** no knowledge is enough **.
+I am 18 years old and I am a student, I am currently doing an online BootCamp with soyHenry is latam, I started programming at 16 years old. This helped me develop a good tech mindset and made me curious to learn more. I like to face challenges every day and learn from people, acquiring knowledge and experience. I think that   >>> **no knowledge is enough**.
  ## What I know :computer:
 - **Full Stack Development**
 
