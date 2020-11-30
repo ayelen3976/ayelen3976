@@ -12,12 +12,12 @@ I was curious about the programming and my first learning was with the free cour
 
 	- HTML, CSS and Javascript 
 	- Bootstrap
-	- Less
 	- React with Redux 
 	- ReactJS
 	- Nodejs
 	- Express
 	- SQL
+	- Sequelize
 
 ## I will learn soon...
 -Python
