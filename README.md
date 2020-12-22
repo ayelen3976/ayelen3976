@@ -12,6 +12,7 @@ I was curious about the programming and my first learning was with the free cour
 
 	- HTML, CSS and Javascript 
 	- Bootstrap
+	- Sass
 	- React with Redux 
 	- ReactJS
 	- React Native
