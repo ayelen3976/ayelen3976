@@ -23,6 +23,7 @@ I was curious about the programming and my first learning was with the free cour
 	- Sequelize
 
 ## I will learn soon...
+-Java
 -Python
 
 ## Contact
