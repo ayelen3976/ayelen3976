@@ -23,8 +23,8 @@ I was curious about the programming and my first learning was with the free cour
 	- Sequelize
 
 ## I'm learning ...
--Java
--Testing QA
+        - Java
+	- Testing QA
 
 ## Contact
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
