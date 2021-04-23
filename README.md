@@ -22,9 +22,9 @@ I was curious about the programming and my first learning was with the free cour
 	- MySQL
 	- Sequelize
 
-## I will learn soon...
+## I'm learning ...
 -Java
--Python
+-Testing QA
 
 ## Contact
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
