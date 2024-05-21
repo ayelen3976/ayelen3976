@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I am 22 years old and I am a student.
+I am Ayelen Fernandez and I am a student.
 I was curious about the programming and my first learning was with the free courses of the city government. This helped me develop a good technological mindset and want to get more into the IT world developing web pages and mobile applications. I like to face challenges every day and learn from people, acquiring knowledge and experience. I think that >>> **no knowledge is enough**.
  ## What I know :computer:
 - **Full Stack Development**
